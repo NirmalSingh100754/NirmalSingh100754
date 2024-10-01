@@ -4,7 +4,7 @@
 
 ---
 <img style="padding:10px" align="right" alt="busy" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-I'm passionate about building user-friendly, responsive, and scalable web applications using React.js, HTML5, CSS3, and JavaScript. I love solving problems and constantly learning new technologies to improve my skills.
+<h3 style="padding:10px" >I'm passionate about building user-friendly, responsive, and scalable web applications using React.js, HTML5, CSS3, and JavaScript. I love solving problems and constantly learning new technologies to improve my skills.</h3>
 
 ### 🛠 Tech Stack
 
