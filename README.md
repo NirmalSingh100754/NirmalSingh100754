@@ -1,6 +1,6 @@
 # Hello, I'm Nirmal Singh! 👋
 
-### 🚀 Front-end Developer | 🤖Machine Learning | 💡 Problem Solver | 📈 Growth Enthusiast
+### 🚀 Web Developer | 🤖Machine Learning | 💡 Problem Solver | 📈 Growth Enthusiast
 
 ---
 <img style="padding:10px" align="right" alt="busy" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
