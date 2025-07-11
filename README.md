@@ -23,8 +23,16 @@
 
 ### 📝 Projects
 
-1. **[MindMate](#)** - A mental health support app using React, Tailwind CSS, and JavaScript.
-2. **[Restaurant Frontend](#)** - Developed a clean, optimized frontend for a restaurant website.
+1. **[MindMate](#)** - A mental health support app using React, Tailwind CSS, and JavaScript.1. **[Blaze Herbel](https://blaze-herbals-3cc9ff5116e57dc9fb0c.o2.myshopify.dev/)** – Developed and maintained features for an herbal e-commerce platform as an intern at DevFrame Studio using React.js and Tailwind CSS. Improved UI responsiveness and implemented product catalog and order management modules.
+
+2. **[Chauffeurs Website Clone](https://original-series-510821.framer.app/)** – Recreated the UI/UX of the Chauffeurs website using Framer, focusing on layout precision, responsive design, and smooth interactions.
+
+3. **[Wardrobe Assistant](https://github.com/a/Wardrobe-Assistant)** – AI-powered outfit planner with virtual try-ons and smart fit suggestions. Uses image processing and AR to visualize clothing and recommend best-fitting outfits.
+
+4. **[Virtual Meeting Assistant](https://github.com/NirmalSingh100754/Virtual-Meeting-Assistant.git)** – Automates meeting note-taking using speech-to-text and NLP. Extracts key points and actionable tasks from conversations.
+
+5. **[Bus Reservation System](https://github.com/NirmalSingh100754/bus_reservation_system)** – Built with Python (Tkinter) and MySQL. Provides a GUI for bus ticket booking, cancellation, and admin route management.
+
 3. **[Bus Reservation System](#)** - Created using Python GUI and MySQL for bus ticket management.
 
 ### 👨‍💻 What I'm Currently Working On
