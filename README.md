@@ -34,8 +34,6 @@
 
 6. **[Bus Reservation System](https://github.com/NirmalSingh100754/bus_reservation_system)** – Built with Python (Tkinter) and MySQL. Provides a GUI for bus ticket booking, cancellation, and admin route management.
 
-3. **[Bus Reservation System](#)** - Created using Python GUI and MySQL for bus ticket management.
-
 ### 👨‍💻 What I'm Currently Working On
 
 - 🔍 **Optimizing Python algorithms** for competitive programming.
