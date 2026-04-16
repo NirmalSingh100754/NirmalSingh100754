@@ -1,0 +1,57 @@
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font: bold 40px 'Segoe UI', sans-serif;
+      fill: #00f7ff;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      animation: glow 2s ease-in-out infinite alternate;
+    }
+
+    .subtitle {
+      font: 18px 'Segoe UI', sans-serif;
+      fill: #ffffff;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      opacity: 0.8;
+    }
+
+    @keyframes glow {
+      from {
+        text-shadow: 0 0 5px #00f7ff, 0 0 10px #00f7ff, 0 0 20px #00f7ff;
+      }
+      to {
+        text-shadow: 0 0 10px #00f7ff, 0 0 20px #00f7ff, 0 0 40px #00f7ff;
+      }
+    }
+
+    .bg {
+      fill: #0d1117;
+    }
+
+    .line {
+      stroke: #00f7ff;
+      stroke-width: 2;
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: draw 3s ease forwards;
+    }
+
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" class="bg"/>
+
+  <!-- Animated Lines -->
+  <line x1="100" y1="50" x2="700" y2="50" class="line"/>
+  <line x1="100" y1="150" x2="700" y2="150" class="line"/>
+
+  <!-- Text -->
+  <text x="400" y="90" class="title">Nirmal Singh</text>
+  <text x="400" y="130" class="subtitle">Full Stack Developer • AI/ML Enthusiast</text>
+</svg>
