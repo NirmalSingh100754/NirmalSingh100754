@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NirmalSingh100754/NirmalSingh100754/main/banner.svg" />
+  <img src="https://raw.githubusercontent.com/NirmalSingh100754/NirmalSingh100754/main/banner.svg?v=2" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Nirmal+Singh+👋;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Competitive+Programmer&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=24">
