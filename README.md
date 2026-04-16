@@ -16,11 +16,10 @@
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me
-- 🎓 AI & ML Micro-Specialization  
+- 🎓 AI & ML Specialization  
 - 💻 Full Stack Developer  
 - 📊 Data Analyst & Problem Solver  
-- 🧠 Solved **260+ LeetCode** problems  
-- 🏆 Ranked **Top 50/480 students**  
+- 🧠 Solved **300+ LeetCode** problems  
 - 🚀 Building real-world scalable apps  
 
 ---
@@ -85,15 +84,7 @@
 ### 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalSingh100754&theme=react-dark&hide_border=true"/>
-
 ---
-
-### 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=NirmalSingh100754&theme=radical&no-frame=true&row=1" />
-
----
-
 ### 🌍 Connect With Me
 
 <p align="left">
