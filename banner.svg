@@ -1,27 +1,45 @@
-<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient for text -->
+    <linearGradient id="gradText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f7ff">
+        <animate attributeName="stop-color" values="#00f7ff;#8a2be2;#00f7ff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8a2be2">
+        <animate attributeName="stop-color" values="#8a2be2;#00f7ff;#8a2be2" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Line gradient -->
+    <linearGradient id="gradLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f7ff"/>
+      <stop offset="100%" stop-color="#8a2be2"/>
+    </linearGradient>
+  </defs>
+
   <style>
     .title {
-      font: bold 40px 'Segoe UI', sans-serif;
-      fill: #00f7ff;
+      font: bold 34px 'Segoe UI', sans-serif;
+      fill: url(#gradText);
       text-anchor: middle;
       dominant-baseline: middle;
       animation: glow 2s ease-in-out infinite alternate;
     }
 
     .subtitle {
-      font: 18px 'Segoe UI', sans-serif;
-      fill: #ffffff;
+      font: 16px 'Segoe UI', sans-serif;
+      fill: #c9d1d9;
       text-anchor: middle;
       dominant-baseline: middle;
-      opacity: 0.8;
+      opacity: 0.85;
     }
 
     @keyframes glow {
       from {
-        text-shadow: 0 0 5px #00f7ff, 0 0 10px #00f7ff, 0 0 20px #00f7ff;
+        filter: drop-shadow(0 0 5px #00f7ff);
       }
       to {
-        text-shadow: 0 0 10px #00f7ff, 0 0 20px #00f7ff, 0 0 40px #00f7ff;
+        filter: drop-shadow(0 0 15px #8a2be2);
       }
     }
 
@@ -30,11 +48,11 @@
     }
 
     .line {
-      stroke: #00f7ff;
+      stroke: url(#gradLine);
       stroke-width: 2;
       stroke-dasharray: 1000;
       stroke-dashoffset: 1000;
-      animation: draw 3s ease forwards;
+      animation: draw 2.5s ease forwards;
     }
 
     @keyframes draw {
@@ -48,10 +66,10 @@
   <rect width="100%" height="100%" class="bg"/>
 
   <!-- Animated Lines -->
-  <line x1="100" y1="50" x2="700" y2="50" class="line"/>
-  <line x1="100" y1="150" x2="700" y2="150" class="line"/>
+  <line x1="120" y1="25" x2="680" y2="25" class="line"/>
+  <line x1="120" y1="105" x2="680" y2="105" class="line"/>
 
   <!-- Text -->
-  <text x="400" y="90" class="title">Nirmal Singh</text>
-  <text x="400" y="130" class="subtitle">Full Stack Developer • AI/ML Enthusiast</text>
+  <text x="400" y="60" class="title">Nirmal Singh</text>
+  <text x="400" y="90" class="subtitle">Full Stack Developer • AI/ML Enthusiast</text>
 </svg>
