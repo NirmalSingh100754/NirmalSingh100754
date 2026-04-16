@@ -1,63 +1,108 @@
-# Hello, I'm Nirmal Singh! 👋
-
-### 🚀 Prompt Engineer | Web Developer | 🤖Machine Learning | 💡 Problem Solver | 📈 Growth Enthusiast
-
----
-<img style="padding:10px" align="right" alt="busy" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-<h3 style="padding:10px" >I'm passionate about building user-friendly, responsive, and scalable web applications using React.js, HTML5, CSS3, and JavaScript. I love solving problems and constantly learning new technologies to improve my skills.</h3>
-
-### 🛠 Tech Stack
-
-- **Front-end:** React.js, HTML5, CSS3, Tailwind CSS, JavaScript
-- **Back-end:** Python, Java, C, C++
-- **Database:** MySQL
-- **UI/UX:** Figma
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>                                                                                                                                                                                                                                                                                                      
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NirmalSingh100754/NirmalSingh100754/main/banner.svg" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Nirmal+Singh+👋;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Competitive+Programmer&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=24">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NirmalSingh100754&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
-### 📝 Projects
+---
 
-1. **[MindMate](#)** - A mental health support app using React, Tailwind CSS, and JavaScript.
-2. **[Blaze Herbel](https://blaze-herbals-3cc9ff5116e57dc9fb0c.o2.myshopify.dev/)** – Developed and maintained features for an herbal e-commerce platform as an intern at DevFrame Studio using React.js and Tailwind CSS. Improved UI responsiveness and implemented product catalog and order management modules.
+<!-- ================= HERO GIF ================= -->
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-3. **[Chauffeurs Website Clone](https://original-series-510821.framer.app/)** – Recreated the UI/UX of the Chauffeurs website using Framer, focusing on layout precision, responsive design, and smooth interactions.
+### 👨‍💻 About Me
+- 🎓 AI & ML Micro-Specialization  
+- 💻 Full Stack Developer  
+- 📊 Data Analyst & Problem Solver  
+- 🧠 Solved **260+ LeetCode** problems  
+- 🏆 Ranked **Top 50/480 students**  
+- 🚀 Building real-world scalable apps  
 
-4. **[Wardrobe Assistant](https://github.com/a/Wardrobe-Assistant)** – AI-powered outfit planner with virtual try-ons and smart fit suggestions. Uses image processing and AR to visualize clothing and recommend best-fitting outfits.
+---
 
-5. **[Virtual Meeting Assistant](https://github.com/NirmalSingh100754/Virtual-Meeting-Assistant.git)** – Automates meeting note-taking using speech-to-text and NLP. Extracts key points and actionable tasks from conversations.
+### ⚡ Tech Stack
 
-6. **[Bus Reservation System](https://github.com/NirmalSingh100754/bus_reservation_system)** – Built with Python (Tkinter) and MySQL. Provides a GUI for bus ticket booking, cancellation, and admin route management.
+#### 🧑‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
-### 👨‍💻 What I'm Currently Working On
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwind-css)
 
-- 🔍 **Optimizing Python algorithms** for competitive programming.
-- 📚 **Sharpening React.js skills** with new projects.
-- 💼 Enhancing my portfolio for front-end development roles.
+#### ⚙️ Tools & Backend
+![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
-### 🎯 Let's Collaborate
+#### 🤖 AI / ML
+![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit)
 
-- Have a project idea? Let's build it together! I'm always open to new challenges and collaborations.
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Projects
+
+💡 **Blaze Herbal E-commerce**  
+➡️ Built scalable UI & product system using React  
+🔗 https://blaze-herbals-3cc9ff5116e57dc9fb0c.o2.myshopify.dev/
+
+💡 **Wardrobe Assistant (AI)**  
+➡️ Virtual try-on using OpenCV + ML  
+🔗 https://github.com/a/Wardrobe-Assistant
+
+💡 **Virtual Meeting Assistant**  
+➡️ NLP-based meeting summarizer  
+🔗 https://github.com/NirmalSingh100754/Virtual-Meeting-Assistant
+
+💡 **Bus Reservation System**  
+➡️ Python GUI + MySQL backend  
+🔗 https://github.com/NirmalSingh100754/bus_reservation_system
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NirmalSingh100754&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalSingh100754&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalSingh100754&theme=react-dark&hide_border=true"/>
+
+---
+
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=NirmalSingh100754&theme=radical&no-frame=true&row=1" />
+
+---
+
+### 🌍 Connect With Me
+
 <p align="left">
-<a href="https://x.com/nirmalsingh9972/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiku2710" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nirmal-singh100754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal singh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nirmal100754/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indranil.samanta.10" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nirmal-singh100754/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
+<a href="https://leetcode.com/u/nirmal100754/"><img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode"></a>
+<a href="https://www.hackerrank.com/profile/221b252"><img src="https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank"></a>
 </p>
-
-- **Email:** 221b252@juetguna.in
-- **Email:** nirmalsingh9972@gmail.com
-- **LeetCode:** https://leetcode.com/u/nirmal100754/
-- **HackerRank:** https://www.hackerrank.com/profile/221b252
-- **Linkedin:** https://www.linkedin.com/in/nirmal-singh100754/
-- **LinkedIn:** [Nirmal Singh](https://www.linkedin.com/in/nirmal-singh100754/)
 
 ---
 
-⭐ **Fun Fact:** I love tackling **LeetCode challenges** and I'm constantly improving my coding skills!
+### ⚡ Fun Fact
+> I turn ☕ into scalable applications
