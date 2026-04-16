@@ -1,11 +1,6 @@
-<!-- ================= BANNER ================= -->
+---
 <p align="center">
-  <img src="./banner.svg" height="120"/>
-</p>
-
-<!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Nirmal+Singh+👋;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Competitive+Programmer&center=true&width=600&height=45&color=00F7FF&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Nirmal+Singh+👋&center=true&width=600&height=70&color=00F7FF&size=40&duration=1&pause=1000000">  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Competitive+Programmer&center=true&width=600&height=40&color=00F7FF&vCenter=true&size=22">
 </p>
 
 <p align="center">
