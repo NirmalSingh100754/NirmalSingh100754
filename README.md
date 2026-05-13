@@ -1,10 +1,15 @@
 ---
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Nirmal+Singh+👋&center=true&width=600&height=70&color=00F7FF&size=40&duration=1&pause=1000000">  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Competitive+Programmer&center=true&width=600&height=40&color=00F7FF&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Nirmal+Singh+👋&center=true&width=600&height=70&color=00F7FF&size=40&duration=1&pause=1000000">  
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Competitive+Programmer&center=true&width=600&height=40&color=00F7FF&vCenter=true&size=22">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NirmalSingh100754&label=Profile+Views&color=0e75b6&style=flat" />
+  
+  <img src="https://img.shields.io/github/followers/NirmalSingh100754?style=flat&color=blue" />
+
+  <img src="https://img.shields.io/github/stars/NirmalSingh100754?style=flat&color=yellow" />
 </p>
 
 ---
@@ -54,17 +59,35 @@
 ➡️ React-based scalable UI & product system  
 🔗 https://blaze-herbals-3cc9ff5116e57dc9fb0c.o2.myshopify.dev/
 
+🔹 **Query Atlas**  
+➡️ AI-powered PDF Q&A platform with RAG pipeline and vector search  
+➡️ Built using Next.js, Express.js, BullMQ, Qdrant, and LangChain  
+🔗 https://github.com/NirmalSingh100754/Query-Atlas
+
+🔹 **CoEdit-Pro**  
+➡️ Real-time collaborative code editor with live synchronization  
+➡️ Monaco Editor + Yjs + WebSockets + Docker deployment  
+🔗 https://github.com/NirmalSingh100754/CoEdit-Pro
+
 🔹 **Wardrobe Assistant (AI)**  
 ➡️ Virtual try-on using OpenCV + ML  
 🔗 https://github.com/a/Wardrobe-Assistant
 
 🔹 **Virtual Meeting Assistant**  
-➡️ NLP-based meeting summarizer  
+➡️ NLP-based meeting summarizer and automated meeting insights  
 🔗 https://github.com/NirmalSingh100754/Virtual-Meeting-Assistant
 
 🔹 **Bus Reservation System**  
 ➡️ Python GUI + MySQL backend  
 🔗 https://github.com/NirmalSingh100754/bus_reservation_system
+
+---
+
+### 🏆 Coding Stats
+
+<p align="center">
+  <img height="220" src="https://leetcard.jacoblin.cool/nirmal100754?theme=dark&font=Nunito" />
+</p>
 
 ---
 
