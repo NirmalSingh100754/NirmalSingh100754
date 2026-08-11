@@ -91,13 +91,14 @@
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/NirmalSingh100754?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/NirmalSingh100754?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/NirmalSingh100754?style=for-the-badge&logo=github&label=Commits" />
-  <img src="https://img.shields.io/github/created-at/NirmalSingh100754?style=for-the-badge&logo=github&label=GitHub%20Since" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NirmalSingh100754&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalSingh100754&hide_border=true" height="180" />
 </p>
 ---
 
