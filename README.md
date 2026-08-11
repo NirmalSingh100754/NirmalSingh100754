@@ -91,13 +91,14 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NirmalSingh100754&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalSingh100754&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/NirmalSingh100754?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/NirmalSingh100754?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/NirmalSingh100754?style=for-the-badge&logo=github&label=Commits" />
+  <img src="https://img.shields.io/github/created-at/NirmalSingh100754?style=for-the-badge&logo=github&label=GitHub%20Since" />
 </p>
-
 ---
 
 ### 📈 Activity Graph
